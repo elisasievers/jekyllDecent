@@ -1,8 +1,8 @@
 default:                                                      # Fallback if nothing is specified
   initial:      ES                                       # used for author lookup in posts and for first two characters in the about page back button
-  name:         Elisa Sievers                               # used to display author name
+  name:         "Elisa Sievers"                               # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
-  picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
+  picture:      /assets/janedoe.jpg                           # OPTIONAL: author picture
   bio:          Founder of Happy Children Denmark                               # OPTIONAL: text below author name in posts
   location:     Denmark                                       # OPTIONAL: used to display location of the author
   website:                          						  # OPTIONAL: link to the author of a post
@@ -24,12 +24,12 @@ default:                                                      # Fallback if noth
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
 jdecent:
-  initial:      jdecent
-  name:         "Jekyll Decent"
+  initial:      ES
+  name:         "Elisa Sievers"
   cover:        /assets/mountain-alternative-cover.jpg
-  picture:      /assets/johndoe.jpg
+  picture:      /assets/janedoe.jpg
   bio:          This is my bio!
-  location:     Germany
+  location:     Denmark
   email:        "-"
   twitter:      "-"
   twitch:       "-"
