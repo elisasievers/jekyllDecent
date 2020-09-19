@@ -6,3 +6,5 @@ category:          Features
 author:            esievers
 tags:              Jekyll Content Demo
 ---
+# activities
+Here you can see our recent acivities
