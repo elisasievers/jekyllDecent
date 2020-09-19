@@ -1,7 +1,7 @@
 ---
 layout:            post
-title:             "Recent Activities"
-menutitle:         "Recent Activities"
+title:             "Recent activities"
+menutitle:         "Recent activities"
 category:          Features
 author:            esievers
 tags:              Jekyll Content Demo
