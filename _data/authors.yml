@@ -1,7 +1,7 @@
 default:                                                      # Fallback if nothing is specified
   initial:      ES                                       # used for author lookup in posts and for first two characters in the about page back button
   name:         "Elisa Sievers"                               # used to display author name
-  cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
+  cover:        /assets/Barn-jord.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/ES1.jpg                           # OPTIONAL: author picture
   bio:          "Founder of Happy Children Denmark"                               # OPTIONAL: text below author name in posts
   location:     Denmark                                       # OPTIONAL: used to display location of the author
@@ -26,7 +26,7 @@ default:                                                      # Fallback if noth
 esievers:
   initial:      ES
   name:         "Elisa Sievers"
-  picture:      /assets/janedoe.jpg
+  picture:      /assets/ES1.jpg
   bio:          Founder of Happy Children Denmark
   location:     Denmark
   website:      "https://github.com/elisasievers"
@@ -34,19 +34,19 @@ esievers:
 jdecent:
   initial:      ES
   name:         "Elisa Sievers"
-  cover:        /assets/mountain-alternative-cover.jpg
-  picture:      /assets/janedoe.jpg
+  cover:        /assets/Barn-jord.jpg
+  picture:      /assets/ES1.jpg
   bio:          Founder of Happy Children Denmark
   location:     Denmark
   email:        "-"
   twitter:      "-"
   twitch:       "-"
 jwillmer:
-  initial:      jwillmer
-  name:         "Jens Willmer"
-  picture:      /assets/jwillmer.jpg
-  bio:          All about technology
-  location:     Germany
-  website:      "http://jwillmer.de/cv"
-  twitter:      jenswillmer
-  github:       jwillmer
+  initial:      esievers
+  name:         "Elisa Sievers"
+  picture:      /assets/ES1.jpg
+  bio:          Founder of Happy Children Denmark
+  location:     Denmark
+  website:      "https://github.com/elisasievers"
+  twitter:
+  github:       esievers
