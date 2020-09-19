@@ -23,12 +23,20 @@ default:                                                      # Fallback if noth
   twitch:                                                     # OPTIONAL: used in the about page
   s500px:                                                     # OPTIONAL: used in the about page
   reddit:                                                     # OPTIONAL: used in the about page
+esievers:
+  initial:      ES
+  name:         "Elisa Sievers"
+  picture:      /assets/janedoe.jpg
+  bio:          Founder of Happy Children Denmark
+  location:     Denmark
+  website:      "https://github.com/elisasievers"
+  github:       elisasievers
 jdecent:
   initial:      ES
   name:         "Elisa Sievers"
   cover:        /assets/mountain-alternative-cover.jpg
   picture:      /assets/janedoe.jpg
-  bio:          Founder of Happy Children Denmark 
+  bio:          Founder of Happy Children Denmark
   location:     Denmark
   email:        "-"
   twitter:      "-"
